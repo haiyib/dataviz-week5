@@ -1,0 +1,209 @@
+year,section,metric,species,count
+2023,Intake,Stray/At Large,Dogs,3173
+2023,Intake,Stray/At Large,Cats,5184
+2023,Intake,Stray/At Large,Rabbits,162
+2023,Intake,Stray/At Large,Guinea Pigs,159
+2023,Intake,Relinquished by Owner,Dogs,2080
+2023,Intake,Relinquished by Owner,Cats,3875
+2023,Intake,Relinquished by Owner,Rabbits,212
+2023,Intake,Relinquished by Owner,Guinea Pigs,449
+2023,Intake,Other Intakes,Dogs,21
+2023,Intake,Other Intakes,Cats,75
+2023,Intake,Other Intakes,Rabbits,18
+2023,Intake,Other Intakes,Guinea Pigs,19
+2023,Intake,Total,Dogs,5274
+2023,Intake,Total,Cats,9134
+2023,Intake,Total,Rabbits,392
+2023,Intake,Total,Guinea Pigs,627
+2023,Live Outcome,Adoption,Dogs,1444
+2023,Live Outcome,Adoption,Cats,4489
+2023,Live Outcome,Adoption,Rabbits,169
+2023,Live Outcome,Adoption,Guinea Pigs,292
+2023,Live Outcome,Returned to Owner,Dogs,1039
+2023,Live Outcome,Returned to Owner,Cats,328
+2023,Live Outcome,Returned to Owner,Rabbits,3
+2023,Live Outcome,Returned to Owner,Guinea Pigs,3
+2023,Live Outcome,Transferred to Other Agency,Dogs,2168
+2023,Live Outcome,Transferred to Other Agency,Cats,3449
+2023,Live Outcome,Transferred to Other Agency,Rabbits,165
+2023,Live Outcome,Transferred to Other Agency,Guinea Pigs,333
+2023,Live Outcome,Total,Dogs,4651
+2023,Live Outcome,Total,Cats,8266
+2023,Live Outcome,Total,Rabbits,337
+2023,Live Outcome,Total,Guinea Pigs,628
+2023,Other Outcome,Died in Care,Dogs,20
+2023,Other Outcome,Died in Care,Cats,120
+2023,Other Outcome,Died in Care,Rabbits,7
+2023,Other Outcome,Died in Care,Guinea Pigs,7
+2023,Other Outcome,Lost in Care,Dogs,1
+2023,Other Outcome,Lost in Care,Cats,2
+2023,Other Outcome,Lost in Care,Rabbits,0
+2023,Other Outcome,Lost in Care,Guinea Pigs,0
+2023,Other Outcome,Shelter Euthanasia,Dogs,577
+2023,Other Outcome,Shelter Euthanasia,Cats,830
+2023,Other Outcome,Shelter Euthanasia,Rabbits,19
+2023,Other Outcome,Shelter Euthanasia,Guinea Pigs,6
+2023,Other Outcome,Total,Dogs,598
+2023,Other Outcome,Total,Cats,952
+2023,Other Outcome,Total,Rabbits,26
+2023,Other Outcome,Total,Guinea Pigs,13
+2020,Intake,Stray/At Large,Dogs,2243
+2020,Intake,Stray/At Large,Cats,4610
+2020,Intake,Stray/At Large,Rabbits,85
+2020,Intake,Stray/At Large,Guinea Pigs,124
+2020,Intake,Relinquished by Owner,Dogs,1854
+2020,Intake,Relinquished by Owner,Cats,3487
+2020,Intake,Relinquished by Owner,Rabbits,121
+2020,Intake,Relinquished by Owner,Guinea Pigs,278
+2020,Intake,Owner-Intended Euthanasia,Dogs,838
+2020,Intake,Owner-Intended Euthanasia,Cats,460
+2020,Intake,Owner-Intended Euthanasia,Rabbits,5
+2020,Intake,Owner-Intended Euthanasia,Guinea Pigs,2
+2020,Intake,Other Intakes,Dogs,10
+2020,Intake,Other Intakes,Cats,29
+2020,Intake,Other Intakes,Rabbits,0
+2020,Intake,Other Intakes,Guinea Pigs,0
+2020,Intake,Total,Dogs,4945
+2020,Intake,Total,Cats,8586
+2020,Intake,Total,Rabbits,211
+2020,Intake,Total,Guinea Pigs,404
+2020,Live Outcome,Adoption,Dogs,1073
+2020,Live Outcome,Adoption,Cats,3213
+2020,Live Outcome,Adoption,Rabbits,79
+2020,Live Outcome,Adoption,Guinea Pigs,100
+2020,Live Outcome,Returned to Owner,Dogs,885
+2020,Live Outcome,Returned to Owner,Cats,203
+2020,Live Outcome,Returned to Owner,Rabbits,4
+2020,Live Outcome,Returned to Owner,Guinea Pigs,3
+2020,Live Outcome,Transferred to Other Agency,Dogs,1938
+2020,Live Outcome,Transferred to Other Agency,Cats,3891
+2020,Live Outcome,Transferred to Other Agency,Rabbits,114
+2020,Live Outcome,Transferred to Other Agency,Guinea Pigs,286
+2020,Live Outcome,Total,Dogs,3896
+2020,Live Outcome,Total,Cats,7307
+2020,Live Outcome,Total,Rabbits,197
+2020,Live Outcome,Total,Guinea Pigs,389
+2020,Other Outcome,Died in Care,Dogs,9
+2020,Other Outcome,Died in Care,Cats,81
+2020,Other Outcome,Died in Care,Rabbits,4
+2020,Other Outcome,Died in Care,Guinea Pigs,9
+2020,Other Outcome,Lost in Care,Dogs,0
+2020,Other Outcome,Lost in Care,Cats,3
+2020,Other Outcome,Lost in Care,Rabbits,0
+2020,Other Outcome,Lost in Care,Guinea Pigs,0
+2020,Other Outcome,Shelter Euthanasia,Dogs,230
+2020,Other Outcome,Shelter Euthanasia,Cats,752
+2020,Other Outcome,Shelter Euthanasia,Rabbits,3
+2020,Other Outcome,Shelter Euthanasia,Guinea Pigs,2
+2020,Other Outcome,Owner-Intended Euthanasia,Dogs,819
+2020,Other Outcome,Owner-Intended Euthanasia,Cats,455
+2020,Other Outcome,Owner-Intended Euthanasia,Rabbits,5
+2020,Other Outcome,Owner-Intended Euthanasia,Guinea Pigs,2
+2020,Other Outcome,Total,Dogs,1058
+2020,Other Outcome,Total,Cats,1291
+2020,Other Outcome,Total,Rabbits,12
+2020,Other Outcome,Total,Guinea Pigs,13
+2022,Intake,Stray/At Large,Dogs,2276
+2022,Intake,Stray/At Large,Cats,5064
+2022,Intake,Stray/At Large,Rabbits,171
+2022,Intake,Stray/At Large,Guinea Pigs,193
+2022,Intake,Relinquished by Owner,Dogs,2266
+2022,Intake,Relinquished by Owner,Cats,3987
+2022,Intake,Relinquished by Owner,Rabbits,261
+2022,Intake,Relinquished by Owner,Guinea Pigs,616
+2022,Intake,Owner-Intended Euthanasia,Dogs,1043
+2022,Intake,Owner-Intended Euthanasia,Cats,529
+2022,Intake,Owner-Intended Euthanasia,Rabbits,6
+2022,Intake,Owner-Intended Euthanasia,Guinea Pigs,7
+2022,Intake,Other Intakes,Dogs,2
+2022,Intake,Other Intakes,Cats,84
+2022,Intake,Other Intakes,Rabbits,51
+2022,Intake,Other Intakes,Guinea Pigs,9
+2022,Intake,Total,Dogs,5587
+2022,Intake,Total,Cats,9664
+2022,Intake,Total,Rabbits,489
+2022,Intake,Total,Guinea Pigs,825
+2022,Live Outcome,Adoption,Dogs,1402
+2022,Live Outcome,Adoption,Cats,4534
+2022,Live Outcome,Adoption,Rabbits,214
+2022,Live Outcome,Adoption,Guinea Pigs,234
+2022,Live Outcome,Returned to Owner,Dogs,682
+2022,Live Outcome,Returned to Owner,Cats,305
+2022,Live Outcome,Returned to Owner,Rabbits,5
+2022,Live Outcome,Returned to Owner,Guinea Pigs,1
+2022,Live Outcome,Transferred to Other Agency,Dogs,2027
+2022,Live Outcome,Transferred to Other Agency,Cats,3299
+2022,Live Outcome,Transferred to Other Agency,Rabbits,231
+2022,Live Outcome,Transferred to Other Agency,Guinea Pigs,562
+2022,Live Outcome,Total,Dogs,4111
+2022,Live Outcome,Total,Cats,8138
+2022,Live Outcome,Total,Rabbits,450
+2022,Live Outcome,Total,Guinea Pigs,797
+2022,Other Outcome,Died in Care,Dogs,23
+2022,Other Outcome,Died in Care,Cats,139
+2022,Other Outcome,Died in Care,Rabbits,18
+2022,Other Outcome,Died in Care,Guinea Pigs,8
+2022,Other Outcome,Lost in Care,Dogs,1
+2022,Other Outcome,Lost in Care,Cats,4
+2022,Other Outcome,Lost in Care,Rabbits,0
+2022,Other Outcome,Lost in Care,Guinea Pigs,1
+2022,Other Outcome,Shelter Euthanasia,Dogs,349
+2022,Other Outcome,Shelter Euthanasia,Cats,810
+2022,Other Outcome,Shelter Euthanasia,Rabbits,17
+2022,Other Outcome,Shelter Euthanasia,Guinea Pigs,20
+2022,Other Outcome,Owner-Intended Euthanasia,Dogs,1026
+2022,Other Outcome,Owner-Intended Euthanasia,Cats,515
+2022,Other Outcome,Owner-Intended Euthanasia,Rabbits,6
+2022,Other Outcome,Owner-Intended Euthanasia,Guinea Pigs,7
+2022,Other Outcome,Total,Dogs,1399
+2022,Other Outcome,Total,Cats,1468
+2022,Other Outcome,Total,Rabbits,41
+2022,Other Outcome,Total,Guinea Pigs,36
+2024,Intake,Stray/At Large,Dogs,3526
+2024,Intake,Stray/At Large,Cats,5154
+2024,Intake,Stray/At Large,Rabbits,119
+2024,Intake,Stray/At Large,Guinea Pigs,110
+2024,Intake,Relinquished by Owner,Dogs,1906
+2024,Intake,Relinquished by Owner,Cats,3785
+2024,Intake,Relinquished by Owner,Rabbits,162
+2024,Intake,Relinquished by Owner,Guinea Pigs,278
+2024,Intake,Other Intakes,Dogs,31
+2024,Intake,Other Intakes,Cats,65
+2024,Intake,Other Intakes,Rabbits,40
+2024,Intake,Other Intakes,Guinea Pigs,7
+2024,Intake,Total,Dogs,5463
+2024,Intake,Total,Cats,9004
+2024,Intake,Total,Rabbits,321
+2024,Intake,Total,Guinea Pigs,395
+2024,Live Outcome,Adoption,Dogs,1364
+2024,Live Outcome,Adoption,Cats,4390
+2024,Live Outcome,Adoption,Rabbits,183
+2024,Live Outcome,Adoption,Guinea Pigs,218
+2024,Live Outcome,Returned to Owner,Dogs,1016
+2024,Live Outcome,Returned to Owner,Cats,355
+2024,Live Outcome,Returned to Owner,Rabbits,5
+2024,Live Outcome,Returned to Owner,Guinea Pigs,0
+2024,Live Outcome,Transferred to Other Agency,Dogs,2398
+2024,Live Outcome,Transferred to Other Agency,Cats,3399
+2024,Live Outcome,Transferred to Other Agency,Rabbits,123
+2024,Live Outcome,Transferred to Other Agency,Guinea Pigs,199
+2024,Live Outcome,Total,Dogs,4778
+2024,Live Outcome,Total,Cats,8144
+2024,Live Outcome,Total,Rabbits,311
+2024,Live Outcome,Total,Guinea Pigs,417
+2024,Other Outcome,Died in Care,Dogs,21
+2024,Other Outcome,Died in Care,Cats,97
+2024,Other Outcome,Died in Care,Rabbits,10
+2024,Other Outcome,Died in Care,Guinea Pigs,3
+2024,Other Outcome,Lost in Care,Dogs,1
+2024,Other Outcome,Lost in Care,Cats,2
+2024,Other Outcome,Lost in Care,Rabbits,0
+2024,Other Outcome,Lost in Care,Guinea Pigs,0
+2024,Other Outcome,Shelter Euthanasia,Dogs,590
+2024,Other Outcome,Shelter Euthanasia,Cats,692
+2024,Other Outcome,Shelter Euthanasia,Rabbits,12
+2024,Other Outcome,Shelter Euthanasia,Guinea Pigs,5
+2024,Other Outcome,Total,Dogs,612
+2024,Other Outcome,Total,Cats,791
+2024,Other Outcome,Total,Rabbits,22
+2024,Other Outcome,Total,Guinea Pigs,8
